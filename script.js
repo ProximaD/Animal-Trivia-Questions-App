@@ -60,7 +60,7 @@ function showQuestion(){
     questionElement.innerHTML = questionNo + ". " + currentQuestion.question;
 }
 
-currentQuestion.answers.forEach(answer => {
+currentQuestion.answer.forEach(answer => {
     const button = document.createElement("button");
     button.innerHTML = answer.text;
     button.classList.add("btn");
