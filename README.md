@@ -46,5 +46,9 @@ Profile: ProximaD.github.io
 
 ![Screenshot 2024-09-03 182611](https://github.com/user-attachments/assets/c17b12c9-801f-4f94-81cc-e51ce732e9d1)
 
-![Screenshot 2024-09-03 171125](https://github.com/user-attachments/assets/713ca9b3-ad91-44c2-b61d-4a057ada5c40)
+![Screenshot 2024-09-03 182756](https://github.com/user-attachments/assets/0de80535-fc50-4fc5-8f89-609a9d5fd15a)
+
+![Screenshot 2024-09-03 182840](https://github.com/user-attachments/assets/b39676c7-6358-48e6-ad39-d93a87c256fd)
+
+
 
