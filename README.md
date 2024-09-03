@@ -1,4 +1,4 @@
-# Animal-Quiz-App
+# Animal Trivia Questions
 
 # Sandra Lavenda's Portfolio 
 
@@ -44,6 +44,7 @@ git clone https://github.com/ProximaD/Portfolio.git
 GitHub: ProximaD
 Profile: ProximaD.github.io
 
+![Screenshot 2024-09-03 182611](https://github.com/user-attachments/assets/c17b12c9-801f-4f94-81cc-e51ce732e9d1)
 
 ![Screenshot 2024-09-03 171125](https://github.com/user-attachments/assets/713ca9b3-ad91-44c2-b61d-4a057ada5c40)
 
