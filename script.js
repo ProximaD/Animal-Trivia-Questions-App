@@ -1,4 +1,36 @@
 const questions = [
+{
+        question: "Which organ do ants lack?",
+        answers: [
+            {text: "Stomach", correct: false},
+            {text: "Eyes", correct: false},
+            {text: "Lungs", correct: true},
+            {text: "Heart", correct: false},
+        ]
+    },
+
+
+    {
+        question: "For how many years have sharks roamed the earth?",
+        answers: [
+            {text: "350 million", correct: false},
+            {text: "450 million", correct: true},
+            {text: "700 million", correct: false},
+            {text: "1000 million", correct: false},
+        ]
+    },
+
+
+    {
+        question: "What is a group of owls called?",
+        answers: [
+            {text: "A group", correct: false},
+            {text: "A Parliament", correct: true},
+            {text: "A collection", correct: false},
+            {text: "A herd", correct: false},
+        ]
+    },
+
     {
         question: " Which is the largest animal in the world?",
         answers: [
@@ -6,6 +38,16 @@ const questions = [
             {text: "Blue whale", correct: true},
             {text: "Elephant", correct: false},
             {text: "Giraffe", correct: false},
+        ]
+    },
+
+    {
+        question: "What is a group of pandas called?",
+        answers: [
+            {text: "A group", correct: false},
+            {text: "An Embarrassment", correct: true},
+            {text: "A herd", correct: false},
+            {text: "A crash", correct: false},
         ]
     },
 
@@ -26,6 +68,66 @@ const questions = [
             {text: "Lion", correct: false},
             {text: "Elephant", correct: false},
             {text: "Giraffe", correct: true},
+        ]
+    },
+
+    {
+        question: "How many toes do cats typically have?",
+        answers: [
+            {text: "18", correct: true},
+            {text: "5", correct: false},
+            {text: "4", correct: false},
+            {text: "20", correct: false},
+        ]
+    },
+
+    {
+        question: "What color is a polar bear's skin?",
+        answers: [
+            {text: "White", correct: false},
+            {text: "Brown", correct: false},
+            {text: "Black", correct: true},
+            {text: "Grey", correct: false},
+        ]
+    },
+
+    {
+        question: "What is a group of rhinos called?",
+        answers: [
+            {text: "A herd", correct: false},
+            {text: "A group", correct: false},
+            {text: "A collection", correct: false},
+            {text: "A crash", correct: true},
+        ]
+    },
+
+    {
+        question: "What is a group of rhinos called?",
+        answers: [
+            {text: "A herd", correct: false},
+            {text: "A group", correct: false},
+            {text: "A dazzel", correct: false},
+            {text: "A crash", correct: true},
+        ]
+    },
+
+    {
+        question: "How much bamboo does a giant panda eat in a day?",
+        answers: [
+            {text: "59 pounds", correct: false},
+            {text: "84 pounds", correct: true},
+            {text: "25 pounds", correct: false},
+            {text: "48 pounds", correct: false},
+        ]
+    },
+
+    {
+        question: "What do you call a group of zebras?",
+        answers: [
+            {text: "A group", correct: false},
+            {text: "A dazzel", correct: true},
+            {text: "A herd", correct: false},
+            {text: "A crash", correct: false},
         ]
     },
 
