@@ -30,7 +30,7 @@ const questions = [
     },
 
     {
-        question: "Which animal is referred to as the "king of the jungle"?",
+        question: "Which animal is referred to as the 'king of the jungle'?",
         answers: [
             {text: "Hyena", correct: false},
             {text: "Lion", correct: true},
