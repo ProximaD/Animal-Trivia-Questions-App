@@ -10,32 +10,32 @@ const questions = [
     },
 
     {
-        question: " Which is the smallest country in the world?",
+        question: "How many hearts does an octopus have?",
         answers: [
-            {text: "Vatican City", correct: true},
-            {text: "Bhutan", correct: false},
-            {text: "Nepal", correct: false},
-            {text: "Shri Lanka", correct: false},
+            {text: "3", correct: true},
+            {text: "1", correct: false},
+            {text: "0", correct: false},
+            {text: "5", correct: false},
         ]
     },
 
     {
-        question: " Which is the largest desert in the world?",
+        question: "Which mammal has no vocal cords?",
         answers: [
-            {text: "Kalahari", correct: false},
-            {text: "Gobi", correct: false},
-            {text: "Sahara", correct: false},
-            {text: "Antartica", correct: true},
+            {text: "Monkey", correct: false},
+            {text: "Lion", correct: false},
+            {text: "Elephant", correct: false},
+            {text: "Giraffe", correct: true},
         ]
     },
 
     {
-        question: " Which is the smallest continent in the world?",
+        question: "Which animal is referred to as the "king of the jungle"?",
         answers: [
-            {text: "Asia", correct: false},
-            {text: "Australia", correct: true},
-            {text: "Arctic", correct: false},
-            {text: "Africa", correct: false},
+            {text: "Hyena", correct: false},
+            {text: "Lion", correct: true},
+            {text: "Cheetah", correct: false},
+            {text: "Zebra", correct: false},
         ]
     }
 ];
