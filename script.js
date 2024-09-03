@@ -102,16 +102,6 @@ const questions = [
     },
 
     {
-        question: "What is a group of rhinos called?",
-        answers: [
-            {text: "A herd", correct: false},
-            {text: "A group", correct: false},
-            {text: "A dazzel", correct: false},
-            {text: "A crash", correct: true},
-        ]
-    },
-
-    {
         question: "How much bamboo does a giant panda eat in a day?",
         answers: [
             {text: "59 pounds", correct: false},
