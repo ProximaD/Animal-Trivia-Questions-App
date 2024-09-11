@@ -1,6 +1,6 @@
-# Animal Trivia Questions
-
 # Sandra Lavenda's Portfolio 
+
+# Animal Trivia Questions
 
 Responsive Animal Quiz App designed using HTML5, CSS3 and JavaScript
 This is my programming portfolio that details my past and present projects. 
